@@ -15,10 +15,9 @@ Dundee raspberry jam is going to run on every 4th Saturday starting 25th of Marc
 
 ## Who run's the raspberry Jam?
 
-Dundee raspberry jam is ran by Kerry Kidd (RaspiKidd) - kerry@raspikidd.com with the help of Dundee MakerSpace.
+Dundee raspberry jam is ran by Kerry Kidd (RaspiKidd) - http://www.raspikidd.com/ with the help of Dundee MakerSpace https://dundeemakerspace.co.uk
 
 ## Where does the jam take place
 The current venue is Dundee MakerSpace unit 6, Vision building, Greenmarket, DD1 4QB
 
-The best way to confirm travel is by the google map below.
-
+The best way to confirm travel is by the google map on the [welcome page](https://dundeeraspjam.wordpress.com/)
